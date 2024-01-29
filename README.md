@@ -28,7 +28,7 @@ Kanban board to keep track of projects and tasks
 Steps to locally setup development after cloning the project.
 
 ```sh
-git clone https://github.com/BUMBAIYA/Kanban.git
+git clone https://github.com/legend0619/Kanban.git
 ```
 
 ### Step 1 - Dependencies
