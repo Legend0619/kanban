@@ -8,16 +8,16 @@ export function Footer(props: IFooterProps) {
           {"< />"} with ♡ by{" "}
           <a
             target="_blank"
-            href="https://amitchauhan.vercel.app"
+            href="https://kevin-wood.vercel.app"
             aria-label="creator's portfolio"
             className="-underline-offset-2 inline-block origin-left text-base font-semibold underline transition-transform duration-200 hover:scale-[1.1]"
           >
-            Amit Chauhan
+            Kevin Wood
           </a>
         </p>
         <div className="flex gap-4">
           <a
-            href="https://github.com/BUMBAIYA/kanban"
+            href="https://github.com/legend0619/kanban"
             aria-label="Home"
             target="_blank"
             className="flex items-center gap-1 dark:text-zinc-400"
